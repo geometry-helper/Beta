@@ -59,6 +59,16 @@ nav img {
     margin: 0;
 }
 
+.iframe-container {
+  padding-top: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+}
+
 .image-container {
   padding-top: 60px;
   display: flex;
